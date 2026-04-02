@@ -74,10 +74,9 @@ Render • Vercel • Neon/Supabase
 
 ## Repositorios
 
-<p>
-  🔹 <a href="#">Frontend</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔹 <a href="#">Backend</a>
-</p>
+[Frontend](https://github.com/MayraMoy/Frontend_Informate_UPC.git)
+
+[Backend](https://github.com/Tiag4/Backend_Informate_UPC.git)
 
 ## Integrantes
 
