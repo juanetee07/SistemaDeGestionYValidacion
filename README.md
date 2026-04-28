@@ -83,6 +83,7 @@ Render • Vercel • Neon/Supabase
 * Mayra Yazmin Moyano
 * Juan Cruz Larcher
 * Tiago Nicolitsis Amante
+* Lucia Marilen Cornejo
 
 ## Futuro del proyecto
 
