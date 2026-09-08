@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/Database-MySQL-blue">
 </p>
 
+**Repositorios**
+
+[![Backend](https://img.shields.io/badge/GitHub-Backend-181717?logo=github&logoColor=white)](https://github.com/juanetee07/BackendForoUPC.git)
+
+
+[![Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?logo=github&logoColor=white)](https://github.com/MayraMoy/Frontend_Informate_UPC.git)
+
 ---
 
 ## Descripción General
